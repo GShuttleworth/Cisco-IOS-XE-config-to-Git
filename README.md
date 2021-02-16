@@ -31,7 +31,7 @@ You can get a virtual instance of a Cisco IOS-XE device from the [DevNet Sandbox
 ### Clone this Git Repository
 
 ```bash
-git clone TODO
+git clone https://github.com/GShuttleworth/Cisco-IOS-XE-config-to-Git
 ```
 
 ### Setup Python virtual environment
