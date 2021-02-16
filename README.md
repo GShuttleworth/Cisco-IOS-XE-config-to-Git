@@ -47,7 +47,7 @@ It is good practice to run Python scripts in a virtual environment.
 Create virtual environment
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 ```
 
 Open the virtual environment
