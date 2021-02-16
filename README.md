@@ -6,6 +6,8 @@ This is an example python script to demonstrate programmatically collecting curr
 
 This allows you to monitor for configuration changes and track changes to over time.
 
+![alt text](/readme_images/git_diff.png "Git diff on IOS-XE config")
+
 ## Prerequisites
 
 1. [Python](https://www.python.org/) - this has been tested with Python 3.8.6.
@@ -102,7 +104,7 @@ The script automatically deletes all created files after the Git push is complet
 
 Go to your remote Git repository and you should see your config uploaded.
 
-If you make changes to the switch config and re-run the Python script, you will see Git track the changes between the new config and the old config.
+If you make changes to the switch config and re-run the Python script, you will see Git track the changes between the new config and the old config. Check the changes by viewing the most recent Git commit!
 
 ## Troubleshooting
 
