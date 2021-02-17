@@ -86,7 +86,7 @@ Optional - edit `commit_message` to specify what Git should use as the message f
 
 ```python
 # Git repository details
-git_repo_url = "https://github.com/GShuttleworth/device-config-temp"
+git_repo_url = "https://github.com/your_repo_url"
 commit_message = "Automatic config update"
 ```
 
